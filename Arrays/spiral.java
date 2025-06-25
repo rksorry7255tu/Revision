@@ -25,7 +25,6 @@ public class spiral {
         System.out.print(arr[i][ul] + " ");
       }
       ul++;
-
     }
     for (int i = ul; i <= ur; i++) {
       System.out.print(arr[lu][i] + " ");
